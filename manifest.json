@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Clicky-Game",
+  "name": "Here's Who Won The Most Oscars",
   "icons": [
     {
       "src": "favicon.ico",
